@@ -1,4 +1,10 @@
 
+![Github Banner](https://drive.google.com/uc?export=view&id=1mlu0f_S1fmxiO7T5PwXjUB-yJgEXuLds)
+<h1 align="center">
+
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+also+an+Industrial+and+Systems+Engineer" /></a>
+</p>
+
 <h2> Hi, I'm Milagros! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cajo-vega)
@@ -7,8 +13,20 @@
 [![Instagram](https://img.shields.io/badge/Instagram-c13584?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/milacajo/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AgnihotriVatan)
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+also+an+Industrial+and+Systems+Engineer" /></a>
+<p align="left" 
+   style="max-width:55%;
+          font-family:'Century Gothic','Segoe UI',sans-serif;
+          font-size:15px;
+          font-style:italic;
+          line-height:1.8;
+          color:#4a4a4a;
+          margin-top:-25px;
+          margin-bottom:0;">
+  💼 Full Stack Developer with experience in digital banking and e-wallet solutions<br>
+  ☁️ Skilled in Java, Spring Boot, and cloud microservices using Docker and Kubernetes<br>
+  💡 Passionate about clean code, CI/CD automation, and smooth UX with React & TypeScript
 </p>
+
 
 ## 🧰 Tech Stack
 
