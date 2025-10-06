@@ -1,7 +1,5 @@
 
 <h2> Hi, I'm Milagros! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.pinimg.com/736x/94/07/a6/9407a6a07ab537bba429a4252334f707.jpg" width="290">
-</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cajo-vega)
 [<img src="https://img.shields.io/github/followers/milagros-cajo?label=follow&style=social" height="22" title="Follow me" />](https://github.com/milagros-cajo) 
@@ -11,16 +9,6 @@
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+also+an+Industrial+and+Systems+Engineer" /></a>
 </p>
-
- <p align="left">  
-
-  💼 Experience in digital banking and e-wallet solutions<br>
-  
-  ☁️ Skilled in Java, Spring Boot, and cloud microservices using Docker and Kubernetes<br>
-  
-  💡 Passionate about clean code, CI/CD automation, and smooth UX with React & TypeScript
-
-<br>
 
 ## 🧰 Tech Stack
 
