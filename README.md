@@ -1,8 +1,6 @@
 
-![Github Banner](https://drive.google.com/uc?export=view&id=1mlu0f_S1fmxiO7T5PwXjUB-yJgEXuLds)
+![Github Banner](https://i.pinimg.com/1200x/c1/4e/7f/c14e7fe796b68cb39b7cdd75042e44a2.jpg)
 <h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer;I'm+also+an+Industrial+and+Systems+Engineer" /></a>
-</p>
 
 <h2> Hi, I'm Milagros! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
